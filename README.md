@@ -1,7 +1,7 @@
 # Command-line-creating-work-shift-templates
 a command-line project that automated the creation of work shift templates, eliminating manual effort
 
-Video Demo: <URL HERE>
+Video Demo: [<URL HERE>](https://www.youtube.com/watch?v=bayKvuX43AU)
 
 Description:
 
